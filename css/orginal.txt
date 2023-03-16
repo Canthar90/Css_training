@@ -13,25 +13,6 @@ hr {
 img {
     max-width: 60%;
 }
-
-
-
 h1, h3 {
     color: #66BFBF;
-}
-
-h1:hover{
-    color: red;
-}
-
-.green-table {
-    background-color: green;
-}
-
-#experience-table {
-    background-color: aqua;
-}
-
-.circuler {
-    border-radius: 100%;
 }
